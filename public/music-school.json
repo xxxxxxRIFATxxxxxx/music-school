@@ -1,0 +1,62 @@
+[
+    {
+        "id": 100911,
+        "name": "Learn Guitar",
+        "details": "A course, on a stringed musical instrument, is either one string or two or more adjacent strings that are closely spaced relative to the other strings, and typically played as a single string. The strings in each multiple-string course are typically tuned in unison or an octave.",
+        "image": "https://cdn.pixabay.com/photo/2015/05/07/11/02/guitar-756326__480.jpg"
+    },
+    {
+        "id": 100811,
+        "name": "Learn Drums",
+        "details": "The drums are as difficult or as easy as almost any other instrument to play. You need to invest time and energy into mastering the instrument if you want to get proficient and if you want to start playing with other musicians. The drums are an incredibly rewarding instrument to play.",
+        "image": "https://media.istockphoto.com/photos/drums-picture-id147033398"
+    },
+    {
+        "id": 100711,
+        "name": "Learn Keyboard",
+        "details": "The term 'keyboard lessons' often refers to lessons or courses in which the student is only taught to read the Right Hand (melody) notes while the Left Hand plays 1-finger chords or simple block chords.",
+        "image": "https://usa.yamaha.com/files/keyboardsindex_6aecfb3aa62a2ecfca1204dea45918da.jpg?impolicy=resize&imwid=4648&imhei=2848"
+    },
+    {
+        "id": 100611,
+        "name": "Learn Bass Guitar",
+        "details": "Is bass guitar hard to learn? Image result for what is a bass guitar course all in all, learning the bass guitar requires a lot of practice and hard work. In some aspects, it can be quite easy to play as it has fewer strings. At the same time, some may find it harder as it is larger and heavier. It simply depends on you and how well you can carry a rhythm.",
+        "image": "https://media.istockphoto.com/photos/closeup-photo-of-bass-guitar-player-picture-id651209608?k=20&m=651209608&s=612x612&w=0&h=AiB7XH40Akl40uf8alG9Imq4CQA-4wGAx8mvd4TOAKM="
+    },
+    {
+        "id": 100511,
+        "name": "Learn Song",
+        "details": "The chorus of a song is meant to be the most memorable part, containing the ultimate message of the piece. In order to do this, choruses generally rely on a series of techniques. The first has to do with the lyrics, the spoken or sung words.",
+        "image": "https://cdn.britannica.com/03/151903-131-E310E9EC/Microphone-background-sound-waves-energy-Music.jpg"
+    },
+    {
+        "id": 100411,
+        "name": "Learn Lyric Writing",
+        "details": "Many songwriters have many different approaches. Some work on lyrics first, then add melody and chords. Some work out chords, then add a melody and lyrics. Others might do chords, apply a rhythmic groove, then chant out some lyrics, find a melodic shape that works, and proceed from there.",
+        "image": "https://www.jericholibrary.org/sites/default/files/2019-06/music.jpg"
+    },
+    {
+        "id": 100311,
+        "name": "Learn Flute",
+        "details": "It is basically a flute study that is kind of melodious unlike a plain scale or set of long tones. It's really great to take a particular étude and discover three or four different points in any given week of practice. As a teacher, I like to use études to enhance a student's reading abilities",
+        "image": "https://st.depositphotos.com/1356916/1904/i/600/depositphotos_19045663-stock-photo-flute-music-flutist-instrument-playing.jpg"
+    },
+    {
+        "id": 100211,
+        "name": "Learn Ukulele",
+        "details": "The ukulele is easier to learn than the guitar and other stringed instruments like the mandolin. Its soft nylon strings are gentler on your fingertips and don't create finger pain like guitars do. ... Plus, it only has four strings, which makes chord shapes and scales easier to learn.",
+        "image": "https://media.istockphoto.com/photos/playing-ukulele-picture-id477710820?k=20&m=477710820&s=612x612&w=0&h=f27eIuyv7peSPPh_wivykGeieJYC3gI7wuRWozB1K1g="
+    },
+    {
+        "id": 100111,
+        "name": "Learn Violin",
+        "details": "The violin, sometimes known as a fiddle, is a wooden chordophone in the violin family. Most violins have a hollow wooden body. It is the smallest and thus highest-pitched instrument in the family in regular use.",
+        "image": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8dmlvbGlufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+        "id": 100000,
+        "name": "Learn Trumpet",
+        "details": "Trumpets are not an easy instrument to learn initially and are one of the difficult instruments to learn, but with lots of time and practice, they can be mastered. ... It requires an immense amount of daily practice so you can build up the lung power required to play the instrument properly.",
+        "image": "https://images.unsplash.com/photo-1573871666457-7c7329118cf9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJ1bXBldHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    }
+]

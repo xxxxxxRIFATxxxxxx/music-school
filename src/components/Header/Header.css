@@ -1,0 +1,7 @@
+.nav-item:hover, .nav-title:hover {
+    color: #DC3545 !important;
+}
+
+.red-shadow {
+    box-shadow: 0 2px 2px 0 rgba(220, 53, 69, 0.5);
+}
